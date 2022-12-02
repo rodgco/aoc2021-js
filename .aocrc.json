@@ -1,0 +1,6 @@
+{
+	"$schema": "https://raw.githubusercontent.com/aocjs/cli/main/schema/schema.json",
+	"session": "53616c7465645f5f127be7e33f43e9139c16e4781f02e448bd7a49021e4ce665a92b965e88d76a55139e708aac6724fd5e609a49a701fe7a4fcb1cff69e5785a",
+	"compiler": "ts",
+	"year": 2021
+}
